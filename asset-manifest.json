@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/guestbooking/static/css/main.b39482c0.css",
+    "main.js": "/guestbooking/static/js/main.6d8b952d.js",
+    "static/js/488.b4134ce3.chunk.js": "/guestbooking/static/js/488.b4134ce3.chunk.js",
+    "index.html": "/guestbooking/index.html",
+    "main.b39482c0.css.map": "/guestbooking/static/css/main.b39482c0.css.map",
+    "main.6d8b952d.js.map": "/guestbooking/static/js/main.6d8b952d.js.map",
+    "488.b4134ce3.chunk.js.map": "/guestbooking/static/js/488.b4134ce3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39482c0.css",
+    "static/js/main.6d8b952d.js"
+  ]
+}
